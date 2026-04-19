@@ -3,7 +3,7 @@ I am Rohit Kokane, a Computer Science undergraduate with a strong focus on backe
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kokanerohit02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kokanerohit02/)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rohit_kokane)
 
 # 💻 Tech Stack:
