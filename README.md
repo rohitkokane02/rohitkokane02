@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Rohit Kokane, a Computer Science undergraduate with a strong focus on backend development and problem solving.I am Rohit Kokane, a Computer Science undergraduate with a strong focus on backend development and problem solving.<br>Core language: C, C++, javascript, C#<br>Frontend : HTML, CSS, JS<br>Backend language: Node.js, Express.js<br>Database: MySQL, MongoDB
+I am Rohit Kokane, Computer Science undergraduate with a strong focus on backend development and problem solving.<br>Core language: C, C++, javascript, C#<br>Frontend : HTML, CSS, JS<br>Backend language: Node.js, Express.js<br>Database: MySQL, MongoDB
 
 
 ## 🌐 Socials:
